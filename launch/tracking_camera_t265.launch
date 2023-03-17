@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+
+<launch>
+	<node name="tracking_camera" pkg="tracking_camera" type="track" output="screen"/>
+</launch>
